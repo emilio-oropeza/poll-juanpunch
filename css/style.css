@@ -1,0 +1,59 @@
+.img-center{
+	margin: auto;
+}
+body{
+	width: 100%;
+	height: 100vh;
+}
+article{
+	width: 100%;
+	height: 100%;
+	font-family: 'Lato', sans-serif;
+	background-size: cover;
+	color: #fff
+}
+article > .container-fluid{
+    padding-top: 250px;
+}
+#row-2 {
+    position: absolute;
+    width: 100%;
+    margin: auto;
+    bottom: 50px;
+    left: 0px;
+    right: 0px;
+}
+.react-col{
+    position: relative;
+}
+.caras{
+    max-width: 419px; 
+    max-height: 411px;
+}
+    .react-col .text-center {
+        font-size: 40px;
+        letter-spacing: 2px;
+        line-height: 30px;
+    }
+    .react-count{
+        font-weight: 700;
+    }
+.reactios {
+    position: absolute;
+    width: 90px;
+    top: 20px;
+    left: 165px;
+}
+.guante{
+    position: absolute;
+    background-image: url("../images/GUANTE2.png");
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+    top: 0px;
+    left: 0px;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: none;
+}
+/*1920 1080*/
