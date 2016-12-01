@@ -1,19 +1,11 @@
 <?php 
-	$partido = "pumas-tigres";
-	$likeName = "";
-	$loveName = "Verón";
-	$wowName = "Palencia";
-	$hahaName = "Ferreti";
-	$sadName = "El Arbitro";
-	$angryName = "Gignac";
-/*
-	$partido = "leon-xolos";
+	$partido = "leon-tigres";
 	$likeName = "";
 	$loveName = "Boselli";
 	$wowName = "Yarbrough";
-	$hahaName = "El Piojo";
+	$hahaName = "Ferreti";
 	$sadName = "El Arbitro";
-	$angryName = "Dayro";*/
+	$angryName = "Gignac";
 ?>
 <!DOCTYPE html>
 <html>
@@ -78,6 +70,6 @@
 		</article>
 		
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="js/script.js"></script>
+		<script type="text/javascript" src="js/script.js?v=1.0.3"></script>
 	</body>
 </html>
